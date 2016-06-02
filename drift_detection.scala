@@ -21,7 +21,7 @@ object qm_driftDetection {
     // Drift analysis
     //-------------
     // Parameters
-    val ssnID = args(0)  // val ssnID = "20160331-0700"  20160408-0800
+    val ssnID = args(0)
     val acc = args(1)
     val storage_path = args(2)
 
